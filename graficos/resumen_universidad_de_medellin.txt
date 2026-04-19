@@ -1,0 +1,177 @@
+Análisis descriptivo - Universidad de Medellin
+=============================================
+
+Humedad Relativa (%)
++-----------------+---------+
+| Estadístico     |   Valor |
++=================+=========+
+| Media           |   77.98 |
++-----------------+---------+
+| Mediana         |   79.74 |
++-----------------+---------+
+| Moda            |    0    |
++-----------------+---------+
+| Varianza        |  108.75 |
++-----------------+---------+
+| Desviación Est. |   10.43 |
++-----------------+---------+
+| Mínimo          |    0    |
++-----------------+---------+
+| Máximo          |   95.28 |
++-----------------+---------+
+| Rango           |   95.28 |
++-----------------+---------+
+| Q1 (25%)        |   74.42 |
++-----------------+---------+
+| Q2 (50%)        |   79.74 |
++-----------------+---------+
+| Q3 (75%)        |   83.75 |
++-----------------+---------+
+| IQR             |    9.33 |
++-----------------+---------+
+| Asimetría       |   -3.92 |
++-----------------+---------+
+| Curtosis        |   25.37 |
++-----------------+---------+
+
+Explicación: La humedad relativa del aire indica el porcentaje de vapor de agua presente en el aire comparado con la cantidad máxima que el aire puede contener a esa temperatura. Una media alta sugiere condiciones húmedas, lo que puede influir en la comodidad térmica y la formación de niebla. La mediana representa el valor central de las mediciones, mientras que la desviación estándar mide la variabilidad de los datos. Valores extremos pueden indicar cambios climáticos o errores en las mediciones.
+
+Ozono (O3)
++-----------------+---------+
+| Estadístico     |   Valor |
++=================+=========+
+| Media           |   33.12 |
++-----------------+---------+
+| Mediana         |   32.2  |
++-----------------+---------+
+| Moda            |   22.6  |
++-----------------+---------+
+| Varianza        |  161.97 |
++-----------------+---------+
+| Desviación Est. |   12.73 |
++-----------------+---------+
+| Mínimo          |    0    |
++-----------------+---------+
+| Máximo          |   72.17 |
++-----------------+---------+
+| Rango           |   72.17 |
++-----------------+---------+
+| Q1 (25%)        |   23.29 |
++-----------------+---------+
+| Q2 (50%)        |   32.2  |
++-----------------+---------+
+| Q3 (75%)        |   42.64 |
++-----------------+---------+
+| IQR             |   19.35 |
++-----------------+---------+
+| Asimetría       |    0.39 |
++-----------------+---------+
+| Curtosis        |   -0.21 |
++-----------------+---------+
+
+Explicación: El ozono es un gas que puede ser beneficioso en la estratosfera pero perjudicial a nivel del suelo. Las concentraciones se miden en partes por millón. Una media elevada puede indicar contaminación atmosférica. La asimetría positiva sugiere valores atípicos altos, posiblemente debido a eventos de smog. Monitorear estos niveles es crucial para la salud pública.
+
+Precipitaciones (mm)
++-----------------+---------+
+| Estadístico     |   Valor |
++=================+=========+
+| Media           |  625.69 |
++-----------------+---------+
+| Mediana         |  633.93 |
++-----------------+---------+
+| Moda            |    0    |
++-----------------+---------+
+| Varianza        | 4161.24 |
++-----------------+---------+
+| Desviación Est. |   64.51 |
++-----------------+---------+
+| Mínimo          |    0    |
++-----------------+---------+
+| Máximo          |  636.05 |
++-----------------+---------+
+| Rango           |  636.05 |
++-----------------+---------+
+| Q1 (25%)        |  633.18 |
++-----------------+---------+
+| Q2 (50%)        |  633.93 |
++-----------------+---------+
+| Q3 (75%)        |  634.48 |
++-----------------+---------+
+| IQR             |    1.29 |
++-----------------+---------+
+| Asimetría       |   -8.63 |
++-----------------+---------+
+| Curtosis        |   76.7  |
++-----------------+---------+
+
+Explicación: Las precipitaciones se miden en milímetros y representan la cantidad de lluvia caída. La media indica el promedio de lluvia, útil para estudios hidrológicos. La mediana es menos afectada por valores extremos. La asimetría puede mostrar patrones de lluvias intensas. Estos datos son esenciales para la gestión del agua y la predicción de inundaciones.
+
+Temperatura (°C)
++-----------------+---------+
+| Estadístico     |   Valor |
++=================+=========+
+| Media           |   21.15 |
++-----------------+---------+
+| Mediana         |   21.46 |
++-----------------+---------+
+| Moda            |    0    |
++-----------------+---------+
+| Varianza        |    6.76 |
++-----------------+---------+
+| Desviación Est. |    2.6  |
++-----------------+---------+
+| Mínimo          |    0    |
++-----------------+---------+
+| Máximo          |   25.8  |
++-----------------+---------+
+| Rango           |   25.8  |
++-----------------+---------+
+| Q1 (25%)        |   20.33 |
++-----------------+---------+
+| Q2 (50%)        |   21.46 |
++-----------------+---------+
+| Q3 (75%)        |   22.36 |
++-----------------+---------+
+| IQR             |    2.03 |
++-----------------+---------+
+| Asimetría       |   -5.07 |
++-----------------+---------+
+| Curtosis        |   37.14 |
++-----------------+---------+
+
+Explicación: La temperatura del aire se mide en grados Celsius. La media representa la temperatura promedio, mientras que la mediana es el valor central. La desviación estándar indica la variabilidad térmica. Cambios en estos estadísticos pueden reflejar patrones climáticos estacionales o tendencias de calentamiento global.
+
+Velocidad del Viento (m/s)
++-----------------+---------+
+| Estadístico     |   Valor |
++=================+=========+
+| Media           |    0.87 |
++-----------------+---------+
+| Mediana         |    0.83 |
++-----------------+---------+
+| Moda            |    0    |
++-----------------+---------+
+| Varianza        |    0.05 |
++-----------------+---------+
+| Desviación Est. |    0.22 |
++-----------------+---------+
+| Mínimo          |    0    |
++-----------------+---------+
+| Máximo          |    2.34 |
++-----------------+---------+
+| Rango           |    2.34 |
++-----------------+---------+
+| Q1 (25%)        |    0.75 |
++-----------------+---------+
+| Q2 (50%)        |    0.83 |
++-----------------+---------+
+| Q3 (75%)        |    0.98 |
++-----------------+---------+
+| IQR             |    0.23 |
++-----------------+---------+
+| Asimetría       |    1.18 |
++-----------------+---------+
+| Curtosis        |    8.16 |
++-----------------+---------+
+
+Explicación: La velocidad del viento se mide en metros por segundo. Una media alta indica condiciones ventosas, lo que puede dispersar contaminantes. La mediana es el valor típico. La curtosis puede indicar la frecuencia de vientos extremos. Estos datos son importantes para la modelación de la dispersión de contaminantes y la planificación urbana.
