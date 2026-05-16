@@ -6,7 +6,7 @@ import os
 # =============================================================================
 # CONFIGURACIÓN GLOBAL
 # =============================================================================
-BASE_DIR = r"C:\Users\Carmelo\Desktop\PIF\PIF_Probabilidad"
+BASE_DIR = r"C:\Users\marim\OneDrive\Documentos\Universidad\Probabilidad\PIF_Probabilidad 1"
 
 # Mapeo de sedes: { Nombre Carpeta: Sufijo Archivo }
 ESTACIONES_CONFIG = {
